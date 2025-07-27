@@ -1,0 +1,128 @@
+.body {
+  margin-top : -100px;
+  z-index: 100;
+  position: relative;
+}
+.grid-items {
+  align-items: center;
+}
+
+.content1 {
+  margin-left: 200px;
+  width: 500px;
+  margin-top: 100px;
+  color: #f97304;
+  font-weight: bold;
+}
+.content2 {
+  text-align: justify;
+  margin-top: 50px;
+  margin-left: 200px;
+  margin-right: 50px;
+  margin-bottom: 50px;
+  color: #606060;
+}
+
+.btn-voir {
+  margin-left: 200px;
+  margin-right: 50px;
+  margin-bottom: 50px;
+  background-color: white;
+  border-radius: 5px;
+  color: #02749d;
+  font-weight: bolder;
+  border: 2px solid #02749d;
+}
+
+.btn-voir:hover {
+  background-color: #f97304;
+  color: white;
+  font-weight: bold;
+  border: 2px solid #f97304;
+}
+
+.content {
+  margin-left: 100px;
+  margin-right: 10px;
+  align-items: center;
+  margin-bottom: -150px;
+  margin-top: 50px;
+}
+
+.title-fans {
+  margin-left: 593px;
+  color: #9d9d9d;
+  margin-bottom: -1px;
+}
+
+
+.fans {
+  margin-top: 100px;
+}
+
+.title-partners {
+  margin-left: 575px;
+  color: #9d9d9d;
+  margin-bottom: -1px;
+}
+
+
+
+/* .coach {
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    margin-right: 50px;
+    
+  } */
+
+.img-grid {
+  margin-top: 10px;
+  width: 200px;
+  height: 200px;
+}
+
+.cont-part {
+  background-color: #f6f6f6;
+  margin-bottom: -140px;
+}
+
+.grid {
+  margin-left: 100px;
+  margin-right: 50px;
+  margin-top: -25px;
+  margin-bottom: -6px;
+}
+
+.part1 {
+  width: 50%;
+  align-items: center;
+  margin-top: 25px;
+}
+
+.part2 {
+  margin-top: 1px;
+  margin-left: 10px;
+}
+
+.part3 {
+  width: 50%;
+  margin-left: 30px;
+  margin-top: -1px;
+}
+
+.part4 {
+  width: 30%;
+  margin-left: 50px;
+  margin-top: 10px;
+}
+
+.part5 {
+  width: 30%;
+  margin-left: 5px;
+  margin-top: 5px;
+}

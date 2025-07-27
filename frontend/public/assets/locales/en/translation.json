@@ -1,0 +1,202 @@
+{
+    "slider_title": "Passionate about sports?",
+    "slider_text": "You are in the right place to access sports events, find game partners, submit challenges, find a club and submit a sports field.",
+    "slider_text2": "Log in or create your account to discover all the features!",
+    "langue" : "Language",
+    "connect" : "Log In",
+    "register" : "Sign Up",
+    "home_part1" : "Create your community",
+    "part1_title" : "Are you a sports professional?",
+    "part1_text" : " SportShare offers you several services such as the possibility to post an event, an online sport class, a field to rent and manage the events schedule. You will create your own sports community with SportShare.",
+    "part1_button" : "SEE MORE",
+    "home_part2" : "Our partners",
+    "footer_fonc" : "Features",
+
+    "days_since_release": "it's been {{number_of_days}} days since this video was released",
+
+
+    "log_welcome": "Welcome !",
+    "log_pass" : "Password",
+    "log_signup" :"New to SportShare? Join us.",
+    "log_fail" : "The email or password is incorrect! Please try again.",
+
+    
+    "signup_syncro_title" :"Welcome to your {{<br></br>}} sports community {{<br></br>}} SportShare",
+    "signup_syncro_id1" : "  Please identify yourself. ",
+    "signup_syncro_id2" : " Who are you?",
+    "signup_syncro_act1" : " Player",
+    "signup_syncro_act2" : " Sport Club Manager",
+    "signup_syncro_act3" : " Private Coach" ,
+    "signup_syncro_act4" : " Sport Association Manager",
+    "signup_syncro_act5" : " Sponsor",
+    "signup_log" : "  Already have an account? Sign in",
+
+    "signup_title" : " Create your player account. And join us!",
+    "signup_addimg" : " Add a profile picture",
+    "signup_errimg" : "The size of the photo must be less than 2MB.",
+    "signup_usr" : "Username",
+    "signup_gender" : "Gender",
+    "signup_datenais" : "Birthday",
+    "signup_pass_conf" : "Password confirmation",
+    "signup_tel" : "Phone",
+    "signup_adr" : "Adress",
+    "signup_sp" : "Favourite sports",
+    "signup_country" : "Country",
+
+    "signup_err1" : "Acceptable password.",
+    "signup_err2" : "Enter a combination of at least 6 characters and a capital letter.",
+    "signup_err3" :"You have entered a weak password.",
+    "signup_err4" :"Password 1 and 2 must be identical.",
+    "signup_success" :"Congratulations! You are well registered.",
+    "signup_fail" :"Email address already exist. Please try again.",
+    "captcha_fail" :"You have to check that you are not a robot.",
+
+
+    "home_sidebar_1" : "Friends",
+    "home_sidebar_2" : "Players",
+    "home_sidebar_3" : "Events",
+    "home_sidebar_4" : "Invite by Email",
+    "home_sidebar_5" : "Sport Clubs",
+    "home_sidebar_6" : "Sport Grounds",
+
+    "à" : "To :",
+
+    "navbar_home" : "Home",
+    "navbar_calendar" : "Calendar",
+    "navbar_msg" : "Mailbox",
+
+
+    "home_btn_addevent" : "Post an event",
+
+    "home_new_challenge" : "Post a challenge..",
+
+    "home_trends" : "Trends",
+    "home_trends_text" : "The most popular challenges",
+
+
+    "calendar_page_title" : "Check your personal calendar.",
+    "calendar_page" : "Click on the calendar to add an event.",
+    "calendar_add_event_title" : "Please fill in the fields to add an event",
+
+    "event_title" : "Event title",
+    "event_lieu" : "Event address",
+    "btn_add" : "Add",
+    "btn_annuler" : "Cancel",
+    "btn_supp" : "Delete",
+    "event_start" : "Start date", 
+    "event_end" : "End date",
+    "event_h_start" : "Start time",
+    "event_h_end" : "End time",
+
+    "blog_search_by_title" : "Search by title..",
+    "blog_search_by_sub" : "Search by subject..",
+    "blog_btn_add" : "Post an article",
+    "btn_search" : "Search",
+
+
+    "art_img" : "Choose a photo of the article",
+    "art_title" : "Title of the article",
+    "art_sub" : "Subject of the article",
+    "art" : "write your article here..",
+    "btn_pub" : "Publish",
+    "btn_close" : "Close",
+
+    "art_edit" : "Edit article",
+    "event_edit" : "Edit event",
+    "user_edit" : "Edit informations",
+    "pass_edit" : "Edit password",
+
+    "notif_like" : "liked your publication" ,
+    "notif_comm" : "commented on your post",
+    "notif_invi_send" : "sent you a friendship invitation",
+    "notif_invi_accept" : "accepted your invitation",
+    "notif_accepted" : "Invitation acceptée",
+    "notif_particip" : "participated in your event",
+
+    "btn_accept" : "Accept",
+    "btn_refuse" : "Refuse",
+
+    "profile_img" : "Save a new image",
+    "profile_img_err" : "Click on your photo to select a new image, then save.",
+    "profile_img_success" : "Your photo is successfully edited.",
+    "btn_about" : " About ",
+    "btn_edit" : "Edit",
+    "profile_my_chall" : "My challenges",
+    "profile_my_ev" : "My events",
+    "profile_my_ar" : "My articles",
+    
+
+    "ur_pass" : "Your password",
+    "new_pass" : "New password",
+    
+    "edit_pass_success" : "Your password is successfully changed.",
+
+    "edit_warning" : "You must change at least one field to edit.",
+
+    "comment" : "Leave a comment...",
+
+
+    "event_form_title" : "Please fill in the fields to submit your event.",
+    "event_form_img" : "Choose an event photo",
+    "event_form_joueurs_min" : "Minimum number of players",
+    "event_form_joueurs_max" : "Maximum number of players",
+    "event_form_age_min" : "Minimum age",
+    "event_form_age_max" : "Maximum age",
+
+    "event_form_success" : "Your event is successfully added.",
+    "event_form_fail1" : "The maximum age must be higher than the minimum age",
+    "event_form_fail2" : "The maximum number of players must be higher than the minimum number of players",
+
+    "comm_supp" : "Are you sure you want to delete this comment?",
+    "art_supp" : "Are you sure you want to delete this article?",
+    "event_supp" : "Are you sure you want to delete this event?",
+
+    "search_by_nom" : "Search by username..",
+    "search_by_sport" : "Search by sport",
+
+    "search_by_title" : "Search by title",
+
+    "search_by_adr" : "Search by address",
+    "search_by_localisation" : "Search by position",
+    "search_by_region" : "Search by area :",
+    "search_by_date" : "Search by date",
+
+
+    "today" : "Today",
+    "tomorrow" : "Tomorrow" ,
+    "this_week" : "This week",
+    "this_we" : "This week-end",
+    "next_week" : "Next week",
+    "next_month" : "Next month",
+
+    "choose_date" : "Choose a date",
+
+    "invite_mail" : "Invite people to use the application!",
+    "nomprenom" : "Lastname and firstname",
+    "objet" : "Object",
+    "email_destinataire" : "Receiver's email",
+    "contenu" : "Content of the email..",
+
+    "success_mail_sent" : "Your email invitation is successfully sent.",
+    "fail_mail" : "Please fill in the fields.",
+
+    "btn_particip" : "Participate",
+    "btn_no_particip" : "No longer participating",
+    "btn_complet" : "Complete",
+    "btn_terminé" : "Completed",
+
+    "btn_comments":"Comments",
+    "btn_noter" : "Give a grade",
+    "btn_noter_event" : "Notation event",
+
+    "text_noter1" : " You are participating in the same event as",
+    "text_noter2" : " You can give it a rating.",
+
+    "note" : "Total grade",
+    "ponctuel" : "Punctuality",
+    "teamspirit" : "Team spirit",
+
+    "details" : "More details",
+
+    "event_recommand" : "Recommended events for you"
+  }

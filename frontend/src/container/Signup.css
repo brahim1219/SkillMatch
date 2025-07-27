@@ -1,0 +1,32 @@
+.signup-container {
+  margin-top: 4rem;
+  text-align: center;
+}
+
+.signup-logo {
+  display: block;
+  margin: 0 auto 1rem;
+  height: 50px;
+}
+
+.signup-form {
+  margin-top: 1rem;
+}
+
+.signup-avatar {
+  width: 120px;
+  height: 120px;
+  margin: 0 auto 1rem;
+  cursor: pointer;
+}
+
+.signup-submit {
+  margin-top: 1.5rem;
+}
+
+@media (max-width: 600px) {
+  .signup-container {
+    margin-top: 2rem;
+    padding: 0 1rem;
+  }
+}

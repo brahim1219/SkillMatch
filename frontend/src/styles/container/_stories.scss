@@ -1,0 +1,40 @@
+@import "/properties";
+
+.stories {
+//   display : block;
+//  align-content: center;
+//  margin-left: auto;
+//    margin-right: auto;
+//   display: inline-block;
+     width: 110%; 
+//   text-align: center;
+//   margin: auto;
+
+// width: 100%;
+// background-color: #dbdbdb23;
+// border : 1px solid $border-color-grey;
+// border-radius: 2px;
+
+// margin-bottom: 50px;
+//  height: 11.5em;
+//  overflow: hidden;
+// }
+
+ @media only screen and (max-width : 640px)
+ { .stories 
+     { margin: 0 0 0.5em 0; }
+ }
+
+}
+
+ .rec.rec-dot {
+    // background: transparent;
+    // border: none;
+    // border-radius: 0;
+    display: none;
+    
+  }
+  .rec.rec-dot_active {
+    // background: transparent;
+    display: none;
+  }

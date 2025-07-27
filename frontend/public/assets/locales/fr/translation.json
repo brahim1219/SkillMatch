@@ -1,0 +1,207 @@
+{
+    "slider_title": "Passionné de sport ?",
+    "slider_title2": "Vous cherchez un club ?",
+    "slider_title3": "Vous avez un esprit de compétition ?",
+    "slider_text": "Vous êtes bien au bon endroit pour accéder aux  événements sportifs et trouver des partenaires de jeu.",
+    "slider_text2": "Grâce à SportShare, vous pouvez trouver un club de sport, consulter son calendrier et rejoindre une équipe.",
+    "slider_text3": "Vous pouvez challengez vos amis, commentez et likez leurs publications. Vous pouvez aussi leurs donner une note et les contacter. ",
+    "langue" : "Langue",
+    "connect" : "Se connecter",
+    "register" : "S'inscrire",
+    "home_part1" : "Créez votre communauté",
+    "part1_title" : "Vous êtes professionnel de sport ?",
+    "part1_text" : " SportShare vous propose plusieurs services tel que la possibilité de déposer un événement, un cours de sport en ligne, un terrain à louer et gérer le planning des événements. Vous créerez votre communauté sportive grâce à SportShare.",
+    "part1_button" : "VOIR PLUS",
+    "home_part2" : "Nos partenaires",
+    "footer_fonc" : "Fonctionnalités",
+    "days_since_release": "ça fait {{number_of_days}} jours depuis la sortie de cette vidéo",
+
+
+    "log_welcome": "Bienvenue !",
+    "log_pass" : "Mot de passe",
+    "log_signup" : "Nouveau sur SportShare ? Nous joindre",
+    "log_fail" : "L'email ou le mot de passe est incorrect ! Veuillez réessayer.",
+
+    "signup_syncro_title" : "Bienvenue dans votre communauté sportive SportShare",
+    "signup_syncro_id1" : " Veuillez vous identifier. ",
+    "signup_syncro_id2" : " Qui êtes vous ?",
+    "signup_syncro_act1" : " Joueur",
+    "signup_syncro_act2" : " Responsable d'un club Sportif",
+    "signup_syncro_act3" : " Coach privé" ,
+    "signup_syncro_act4" : " Responsable d'une association sportive",
+    "signup_syncro_act5" : " Sponsor",
+    "signup_log" : " Vous avez déja un compte ? Se connecter",
+
+
+    "signup_title" : " Créez votre compte Joueur. Et rejoignez-nous !",
+    "signup_addimg" : " Ajouter une photo de vous",
+    "signup_errimg" : " La taille de la photo doit être inférieure à 2MB.",
+    "signup_usr" : "Nom et prénom",
+    "signup_gender" : "Sexe",
+    "signup_datenais" : "Date de naissance",
+    "signup_pass_conf" : "Confirmation mot de passe",
+    "signup_tel" : "Téléphone",
+    "signup_adr" : "Adresse",
+    "signup_sp" : "Sports préférés",
+    "signup_country" : "Pays",
+
+    "signup_err1" : "Mot de passe acceptable. ",
+    "signup_err2" : "Entrez une combinaison d'au moins 6 caractères et une lettre majuscule. ",
+    "signup_err3" :"Vous avez entré un mot de passe faible.",
+    "signup_err4" :"Mot de passe 1 et 2 doivent être identiques.",
+    "signup_success" :"Bravo ! Vous êtes bien inscit.",
+    "signup_fail" :"Adresse email existe déjà. Veuillez réessayer.",
+    "captcha_fail" :"Vous devez vérifier que vous n'êtes pas un robot.",
+
+
+
+    "home_sidebar_1" : "Amis",
+    "home_sidebar_2" : "Joueurs",
+    "home_sidebar_3" : "Événements",
+    "home_sidebar_4" : "Inviter par email",
+    "home_sidebar_5" : "Clubs sportifs",
+    "home_sidebar_6" : "Terrains",
+
+    "à" : "À :",
+
+    "navbar_home" : "Fil d'actualités",
+    "navbar_calendar" : "Calendrier",
+    "navbar_msg" : "Messagerie",
+
+
+    "home_btn_addevent" : "Déposer un événement",
+
+    "home_new_challenge" : "Déposer un challenge..",
+
+    "home_trends" : "Tendances",
+    "home_trends_text" : "Les challenges les plus aimés",
+
+
+    "calendar_page_title" : "Consultez votre calendrier personnel.",
+    "calendar_page" : "Cliquez sur le calendrier pour ajouter un événement.",
+    "calendar_add_event_title" : "Veuillez remplir les champs pour ajouter un événement",
+
+    "event_title" : "Titre de l'événement",
+    "event_lieu" : "Lieu de l'événement",
+    "btn_add" : "Ajouter",
+    "btn_annuler" : "Annuler",
+    "btn_supp" : "Supprimer",
+    "event_start" : "Date début", 
+    "event_end" : "Date fin",
+    "event_h_start" : "Heure début",
+    "event_h_end" : "Heure fin",
+
+
+    "blog_search_by_title" : "Recherche par titre..",
+    "blog_search_by_sub" : "Recherche par sujet..",
+    "blog_btn_add" : "Déposer un article",
+    "btn_search" : "Rechercher",
+
+
+    "art_img" : "Choisir une photo de l'article",
+    "art_title" : "Titre de l'article",
+    "art_sub" : "Sujet de l'article",
+    "art" : "écrire votre article ici..",
+    "btn_pub" : "Publier",
+    "btn_close" : "Fermer",
+
+    "art_edit" : "Modifier article",
+    "event_edit" : "Modifier événement",
+    "user_edit" : "Modifier mes informations",
+    "pass_edit" : "Modifier mot de passe",
+
+
+    "notif_like" : "a aimé votre publication" ,
+    "notif_comm" : "a commenté votre publication",
+    "notif_invi_send" : "vous a envoyé une invitation d'amitié",
+    "notif_invi_accept" : "a accepté votre invitation",
+    "notif_accepted" : "Invitation acceptée",
+    "notif_particip" : "a participé à votre événement",
+
+    "btn_accept" : "Accepter",
+    "btn_refuse" : "Refuser",
+
+    "profile_img" : "Enregistrer la nouvelle image",
+    "profile_img_err" : "Cliquez sur votre photo pour sélectionner une nouvelle image, puis enregistrez.",
+    "profile_img_success" : "Votre photo est modifiée avec succès.",
+    "btn_about" : " À propos ",
+    "btn_edit" : "Modifier",
+    "profile_my_chall" : "Mes challenges",
+    "profile_my_ev" : "Mes événements",
+    "profile_my_ar" : "Mes articles",
+
+    "ur_pass" : "Votre mot de passe",
+    "new_pass" : "Nouveau mot de passe",
+
+    "edit_pass_success" : "Votre mot de passe est modifié avec succès.",
+    "edit_warning" : "Vous devez changer au moins un champs pour modifier.",
+
+    "comment" : "Laisser un commentaire...",
+
+    "event_form_title" : "Veuillez remplir les champs pour déposer votre événement.",
+    "event_form_img" : "Choisir une photo d'événement",
+    "event_form_joueurs_min" : "Nombre minimal de joueurs",
+    "event_form_joueurs_max" : "Nombre maximal de joueurs",
+    "event_form_age_min" : "Âge minimal",
+    "event_form_age_max" : "Âge maximal",
+
+    "event_form_success" : "Votre événement est ajouté avec succès.",
+    "event_form_fail1" : "L'âge maximal doit être supérieur à l'âge minimal",
+    "event_form_fail2" : "Le nombre maximal des joueurs doit être supérieur au nombre minimal des joueurs",
+
+
+    "comm_supp" : "Etes-vous sûr de vouloir supprimer ce commentaire ?",
+    "art_supp" : "Etes-vous sûr de vouloir supprimer cet article ?",
+    "event_supp" : "Etes-vous sûr de vouloir supprimer cet événement ?",
+
+    "search_by_nom" : "Recherche par nom..",
+    "search_by_sport" : "Recherche par sport",
+
+    "search_by_title" : "Recherche par titre",
+    "search_by_adr" : "Recherche par adresse",
+    "search_by_localisation" : "Recherche par localisation",
+    "search_by_region" : "Recherche par région :",
+    "search_by_date" : "Recherche par date",
+
+    "today" : "Aujourd'hui",
+    "tomorrow" : "Demain" ,
+    "this_week" : "Cette semaine",
+    "this_we" : "Ce week-end",
+    "next_week" : "La semaine prochaine",
+    "next_month" : "Le mois prochain",
+
+    "choose_date" : "Choisir une date",
+
+    "invite_mail" : "Invitez des personnes à utiliser l'application.",
+    "nomprenom" : "Nom et prénom",
+    "objet" : "Objet",
+    "email_destinataire" : "Email du destinataire",
+    "contenu" : "Contenu de l'email..",
+
+    "success_mail_sent" : "Votre invitation par email est envoyée avec succès.",
+    "fail_mail" : "Veuillez remplir les champs.",
+
+    "btn_particip" : "Participer",
+    "btn_no_particip" : "Ne plus participer",
+    "btn_complet" : "Complet",
+    "btn_terminé" : "Terminé",
+
+    "btn_comments":"Commentaires",
+    "btn_noter" : "Attribuer une note",
+    "btn_noter_event" : "Notation événement",
+
+    "text_noter1" : " Vous participez dans le même événement que",
+    "text_noter2" : " Vous pouvez lui attribuer une note.",
+
+    "note" : "La note totale est",
+    "ponctuel" : "Ponctualité",
+    "teamspirit" : "Esprit d'équipe",
+
+
+    "details" : "Voir détails",
+
+    "event_recommand" : "Les événements recommandées pour vous"
+    
+
+    
+  }

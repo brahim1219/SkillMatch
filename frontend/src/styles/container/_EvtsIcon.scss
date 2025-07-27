@@ -1,0 +1,25 @@
+
+@import "/properties";
+.storyBorder {
+  padding: 2px;
+  background: linear-gradient(
+    100deg,
+    $gradient-one 25%,
+  );
+  border-radius: 50%;
+}
+
+.evtIcon {
+  width: 128px;
+  height: 128px;
+  border-radius: 50%;
+  border: 2px solid $background-white;
+  display: block;
+   padding: 2px;
+  &:hover {
+    cursor: pointer;
+  }
+
+
+}
+

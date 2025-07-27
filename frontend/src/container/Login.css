@@ -1,0 +1,21 @@
+.login-container {
+  margin-top: 5rem;
+  text-align: center;
+}
+.login-logo {
+  display: block;
+  margin: 0 auto 1rem;
+  height: 50px;
+}
+.login-form {
+  margin-top: 1rem;
+}
+.login-role {
+  display: flex;
+  justify-content: center;
+  gap: 1rem;
+  margin: 1.5rem 0;
+}
+.login-submit {
+  margin-top: 1rem;
+}
